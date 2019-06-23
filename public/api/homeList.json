@@ -1,0 +1,91 @@
+{
+	"code": 200,
+	"msg": "成功",
+	"time": "1560062525",
+  "data": {
+    "recommendList": [{
+      "id": 1,
+      "author": "老沈1",
+      "wordNumber": 115.7,
+      "comment": 587,
+      "picurl": "//upload.jianshu.io/users/upload_avatars/7416466/fc1a1a0d-e3c7-4bca-9720-028c5c9914f3.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    }, {
+      "id": 2,
+      "author": "老沈2",
+      "wordNumber": 115.7,
+      "comment": 587,
+      "picurl": "//upload.jianshu.io/users/upload_avatars/4790772/388e473c-fe2f-40e0-9301-e357ae8f1b41.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    }, {
+      "id": 3,
+      "author": "老沈3",
+      "wordNumber": 115.7,
+      "comment": 587,
+      "picurl": "//upload.jianshu.io/users/upload_avatars/5545154/1a3d5ed6-9ad1-44b3-9457-3e6a29dd1b71.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    }, {
+      "id": 4,
+      "author": "老沈4",
+      "wordNumber": 115.7,
+      "comment": 587,
+      "picurl": "//upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    }],
+    "boardList": [{
+      "id": 1,
+      "picUrl": "//cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+    }, {
+      "id": 2,
+      "picUrl": "//cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    }, {
+      "id": 3,
+      "picUrl": "//cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+    }, {
+      "id": 4,
+      "picUrl": "//cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+    }],
+    "articalList": [{
+      "id": 1,
+      "title": "想减肥，还不懂这4个小窍门？难怪你减肥失败了！",
+      "past": "还在轻断食，狂跑减肥？难怪你减肥效率低！ 对减肥期间的人来说，最大的好处就是在减肥初期会看到相当明显的效果，因为体重基数大，在运动初期，身体会消...",
+      "picUrl": "//upload-images.jianshu.io/upload_images/2713003-ea56e83832e31e01.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+      "score": 9.4,
+      "author": "普罗米修斯",
+      "comment": 0,
+      "follow": 10
+    }, {
+      "id": 2,
+      "title": "想减肥，还不懂这4个小窍门？难怪你减肥失败了！",
+      "past": "还在轻断食，狂跑减肥？难怪你减肥效率低！ 对减肥期间的人来说，最大的好处就是在减肥初期会看到相当明显的效果，因为体重基数大，在运动初期，身体会消...",
+      "picUrl": "//upload-images.jianshu.io/upload_images/2713003-ea56e83832e31e01.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+      "score": 9.4,
+      "author": "普罗米修斯",
+      "comment": 0,
+      "follow": 10
+    }, {
+      "id": 3,
+      "title": "想减肥，还不懂这4个小窍门？难怪你减肥失败了！",
+      "past": "还在轻断食，狂跑减肥？难怪你减肥效率低！ 对减肥期间的人来说，最大的好处就是在减肥初期会看到相当明显的效果，因为体重基数大，在运动初期，身体会消...",
+      "picUrl": "//upload-images.jianshu.io/upload_images/2713003-ea56e83832e31e01.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+      "score": 9.4,
+      "author": "普罗米修斯",
+      "comment": 0,
+      "follow": 10
+    }, {
+      "id": 4,
+      "title": "想减肥，还不懂这4个小窍门？难怪你减肥失败了！",
+      "past": "还在轻断食，狂跑减肥？难怪你减肥效率低！ 对减肥期间的人来说，最大的好处就是在减肥初期会看到相当明显的效果，因为体重基数大，在运动初期，身体会消...",
+      "picUrl": "//upload-images.jianshu.io/upload_images/2713003-ea56e83832e31e01.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+      "score": 9.4,
+      "author": "普罗米修斯",
+      "comment": 0,
+      "follow": 10
+    }, {
+      "id": 5,
+      "title": "想减肥，还不懂这4个小窍门？难怪你减肥失败了！",
+      "past": "还在轻断食，狂跑减肥？难怪你减肥效率低！ 对减肥期间的人来说，最大的好处就是在减肥初期会看到相当明显的效果，因为体重基数大，在运动初期，身体会消...",
+      "picUrl": "//upload-images.jianshu.io/upload_images/2713003-ea56e83832e31e01.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+      "score": 9.4,
+      "author": "普罗米修斯",
+      "comment": 0,
+      "follow": 10
+    }]
+  }
+}
